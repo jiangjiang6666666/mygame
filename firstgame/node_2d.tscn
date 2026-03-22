@@ -6,11 +6,9 @@
 [gd_scene load_steps=4 format=3 uid="uid://uswmt0m3a62r"]
 >>>>>>> Stashed changes
 
-[node name="Node2D" type="Node2D"]
 [ext_resource type="Script" uid="uid://dm46wtp8psgpf" path="res://node_2d.gd" id="1_0e48y"]
 [ext_resource type="Texture2D" uid="uid://by8pncjjc0082" path="res://palyer/警察（主角）.png" id="1_wtcfe"]
 
-[node name="CharacterBody2D" type="CharacterBody2D" parent="."]
 [sub_resource type="SpriteFrames" id="SpriteFrames_0e48y"]
 
 <<<<<<< Updated upstream
